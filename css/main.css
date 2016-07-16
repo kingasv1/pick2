@@ -60,8 +60,8 @@
 
 #menu-list .item{  border: none; border-bottom: 1px solid #161616; }
 #menu-list .wrap-it .item{ padding-top: 12px !important; padding-bottom: 12px !important;}
-a.active-menu{color: #F2C21E !important;}
-a.active-menu *{color: #F2C21E !important;}
+a.active-menu{color: #1798f3 !important;}
+a.active-menu *{color: #1798f3 !important;}
 .no-border{ border: none !important;}
 
 #profile-box{ margin-top: 30px;}
@@ -84,7 +84,7 @@ ion-scroll[direction=x] {
 	color: #fff;
 }
 .item-rate{ border-right: 1px solid #1C1C1C; height: 80px;}
-.active_cab{ border-top: 2px solid #F2C21E;}
+.active_cab{ border-top: 2px solid #1798f3;}
 
 #trip-date{ }
 
@@ -112,14 +112,14 @@ ion-scroll[direction=x] {
 
 ion-header-bar .back-text ,
 ion-header-bar .ion-ios-arrow-back{
-	color:  #F2C21E !important;
+	color:  #1798f3 !important;
 }
 #det-box1{
 	padding: 10px;
 }
 
 .yellow-hr{
-	height: 1px !important; background-color: #F2C21E !important;position: relative; ;
+	height: 1px !important; background-color: #1798f3 !important;position: relative; ;
 }
 .mid-item{  display: block;
     margin: -10px auto 0;
